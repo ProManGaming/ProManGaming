@@ -1,4 +1,4 @@
-# readme-<h1 align="center">Hi 🙏, I'm PMG!</h1>
+<h1 align="center">Hi 🙏, I'm PMG!</h1>
 
 <h3 align="center">A Student / developer from India</h3>
 
